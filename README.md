@@ -1,5 +1,7 @@
 # ai-engineering-lab
 
+![AI Engineering Lab: 25 experiments on how production AI systems are built and scaled](docs/img/cover.png)
+
 Experiments, system designs, and engineering notes on how production AI systems are built, optimized, evaluated, and scaled.
 
 Not every experiment needs code. Some are implementations, some are design documents, and some look into why an approach works or fails. Every one of them should explain the decision behind it.
